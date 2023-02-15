@@ -1,5 +1,11 @@
 # docker-hello-handong
 
+Run the following command to check whether your Docker Desktop installation is successful or not.
+
+```bash
+docker run hisplan/hello-handong
+```
+
 ```
  __  __   ______   __       __       ______       __  __   ______   __   __   _____    ______   __   __   ______
 /\ \_\ \ /\  ___\ /\ \     /\ \     /\  __ \     /\ \_\ \ /\  __ \ /\ "-.\ \ /\  __-. /\  __ \ /\ "-.\ \ /\  ___\
@@ -8,8 +14,4 @@
   \/_/\/_/ \/_____/ \/_____/ \/_____/ \/_____/     \/_/\/_/ \/_/\/_/ \/_/ \/_/ \/____/  \/_____/ \/_/ \/_/ \/_____/
 
 Hello Handong!
-```
-
-```bash
-docker run hisplan/hello-handong
 ```
